@@ -1,2 +1,5 @@
-const testVar = document.querySelector('body')
-testVar.style.backgroundColor='red'
+// Mobile menu
+const burgerIcon = document.querySelector('.burger')
+const navbarMenu = document.querySelector('#nav-links')
+
+
