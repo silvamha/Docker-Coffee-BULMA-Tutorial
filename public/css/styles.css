@@ -1,4 +1,14 @@
-.{
+*{
     margin: 0;
     padding:0;
 }
+
+.navbar-burger span {
+    height: 2px; /* Adjust the thickness of the burger lines */
+    width: 1.2rem; /* Adjust the width of the burger lines */
+  }
+  
+  .navbar-burger {
+    font-size: 1.5rem; /* Adjusts the overall size of the burger icon */
+  }
+  
